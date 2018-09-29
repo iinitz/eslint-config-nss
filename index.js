@@ -35,5 +35,12 @@ module.exports = {
         'maxBOF': 0,
       },
     ],
+    'no-unused-vars': [
+      'error',
+      {
+        'args': 'none',
+        'caughtErrors': 'all'
+      }
+    ],
   },
 }
