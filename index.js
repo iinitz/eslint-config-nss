@@ -18,7 +18,6 @@ module.exports = {
     'es6': true,
   },
   'rules': {
-    'no-console': 0,
     'semi': [
       2,
       'never',

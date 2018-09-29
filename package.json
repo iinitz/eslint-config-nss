@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-nss",
-  "version": "0.1.1",
-  "description": "Airbnb's ESLint config, following our styleguide",
+  "version": "0.1.2",
+  "description": "Extend Airbnb ESLint config",
   "main": "index.js",
   "keywords": [
     "eslint",
