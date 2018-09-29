@@ -1,5 +1,5 @@
 module.exports = {
-  'extends': 'nss/lib/defaults',
+  'extends': 'nss',
   'parserOptions': {
     'ecmaFeatures': {
       'jsx': true,
