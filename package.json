@@ -1,8 +1,16 @@
 {
   "name": "eslint-config-nss",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "NSS's ESLint config base on eslint-config-airbnb",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://git.devnss.com/open-source/eslint-config-nss"
+  },
+  "bugs": {
+    "url": "https://git.devnss.com/open-source/eslint-config-nss/issues"
+  },
+  "homepage": "https://git.devnss.com/open-source/eslint-config-nss",
   "keywords": [
     "eslint",
     "eslintconfig",
