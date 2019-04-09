@@ -11,21 +11,21 @@ yarn add --dev eslint-config-nss
 ## Usage
 Then, add this to your .eslintrc file:
 
-1. Javascript
+- Javascript
 ```json
 {
   "extends": "nss"
 }
 ```
 
-2. Node
+- Node
 ```json
 {
   "extends": "nss/node"
 }
 ```
 
-3. React
+- React
 ```json
 {
   "extends": "nss/react"
