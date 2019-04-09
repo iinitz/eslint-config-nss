@@ -5,7 +5,7 @@
 ## Install
 
 ```sh
-yarn add --dev babel-eslint eslint eslint-config-nss
+yarn add --dev eslint-config-nss
 ```
 
 ## Usage
