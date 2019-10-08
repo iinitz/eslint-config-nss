@@ -1,16 +1,16 @@
 {
   "name": "eslint-config-nss",
-  "version": "1.0.1",
-  "description": "NSS's ESLint config base on eslint-config-airbnb",
+  "version": "1.0.2",
+  "description": "ESLint config base on eslint-config-airbnb",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://git.devnss.com/open-source/eslint-config-nss"
+    "url": "https://github.com/iinitz/eslint-config-nss"
   },
   "bugs": {
-    "url": "https://git.devnss.com/open-source/eslint-config-nss/issues"
+    "url": "https://github.com/iinitz/eslint-config-nss/issues"
   },
-  "homepage": "https://git.devnss.com/open-source/eslint-config-nss",
+  "homepage": "https://github.com/iinitz/eslint-config-nss",
   "keywords": [
     "eslint",
     "eslintconfig",
@@ -21,7 +21,9 @@
     "es2015",
     "es2016",
     "es2017",
-    "es2018"
+    "es2018",
+    "react",
+    "nodejs"
   ],
   "author": "iinitz (https://twitter.com/@iinitz)",
   "license": "MIT",
