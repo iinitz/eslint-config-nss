@@ -31,5 +31,11 @@ module.exports = {
         'maxBOF': 0,
       },
     ],
+    'import/order': [
+      'error',
+      {
+        'newlines-between': 'always-and-inside-groups',
+      },
+    ],
   },
 }
