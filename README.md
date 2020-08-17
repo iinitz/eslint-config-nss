@@ -5,13 +5,11 @@
 ESLint config base on [eslint-config-airbnb](https://npmjs.com/eslint-config-airbnb).
 
 ## Installation
----
 ```sh
 yarn add --dev eslint-config-nss
 ```
 
 ## Usage
----
 ### Node.js
 Add `nss/node` to the "extends" array in your `.eslintrc` file.
 ```json
