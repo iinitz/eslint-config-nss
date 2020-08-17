@@ -10,6 +10,9 @@ module.exports = {
     'es6': true,
     'jest': true,
   },
+  "plugins": [
+    "react-hooks"
+  ],
   'rules': {
     'react/jsx-filename-extension': 0,
     'function-paren-newline': 0,
