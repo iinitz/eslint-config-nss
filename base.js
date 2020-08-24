@@ -2,7 +2,7 @@ module.exports = {
   'extends': [
     'eslint-config-airbnb',
   ].map(require.resolve),
-  'parser': 'babel-eslint',
+  'parser': '@babel/eslint-parser',
   'parserOptions': {
     'ecmaVersion': 2018,
     'sourceType': 'module',
