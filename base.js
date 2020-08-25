@@ -4,11 +4,13 @@ module.exports = {
   ].map(require.resolve),
   'parser': 'babel-eslint',
   'parserOptions': {
+    'requireConfigFile': false,
     'ecmaVersion': 2018,
     'sourceType': 'module',
     'ecmaFeatures': {
       'impliedStrict': true,
       'experimentalObjectRestSpread': true,
+      'jsx': true
     }
   },
   'env': {

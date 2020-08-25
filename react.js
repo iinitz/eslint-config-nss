@@ -1,10 +1,5 @@
 module.exports = {
   'extends': 'nss',
-  'parserOptions': {
-    'ecmaFeatures': {
-      'jsx': true,
-    }
-  },
   'env': {
     'browser': true,
     'es6': true,
