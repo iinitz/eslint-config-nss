@@ -1,6 +1,7 @@
 # eslint-config-nss
 
 [![npm version](https://badge.fury.io/js/eslint-config-nss.svg)](http://badge.fury.io/js/eslint-config-nss)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fiinitz%2Feslint-config-nss.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fiinitz%2Feslint-config-nss?ref=badge_shield)
 
 ESLint config base on [eslint-config-airbnb](https://npmjs.com/eslint-config-airbnb).
 
@@ -26,3 +27,6 @@ If you're using React, use `nss/react` instead of `nss/node`.
   "extends": ["nss/react"]
 }
 ```
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fiinitz%2Feslint-config-nss.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fiinitz%2Feslint-config-nss?ref=badge_large)
